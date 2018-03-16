@@ -86,7 +86,7 @@ exclude:
   - CNAME
 
 # change theme here
-theme: jekyll-theme-minima
+# theme: jekyll-theme-minima
 
-
+theme: jekyll-theme-midnight
 
