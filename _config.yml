@@ -85,6 +85,8 @@ exclude:
   - README.md
   - CNAME
 
+# change theme here
 theme: jekyll-theme-midnight
+
 
 
