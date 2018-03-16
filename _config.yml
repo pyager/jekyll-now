@@ -88,5 +88,5 @@ exclude:
 # change theme here
 # theme: jekyll-theme-minima
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
