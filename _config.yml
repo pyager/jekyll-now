@@ -88,5 +88,5 @@ exclude:
 # change theme here
 # theme: jekyll-theme-minima
 
-theme: hacker
+theme: jekyll-theme-hacker
 
