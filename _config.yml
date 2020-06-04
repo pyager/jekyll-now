@@ -88,5 +88,5 @@ exclude:
 # change theme here
 # theme: jekyll-theme-minima
 
-theme: jekyll-simple
-
+# theme: jekyll-simple
+remote_theme: wild-flame/jekyll-simple
