@@ -89,4 +89,5 @@ exclude:
 # theme: jekyll-theme-minima
 
 # theme: jekyll-simple
-remote_theme: wild-flame/jekyll-simple
+# remote_theme: wild-flame/jekyll-simple
+remote_theme: holman/left
